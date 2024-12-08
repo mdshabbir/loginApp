@@ -54,7 +54,9 @@ const LoginForm: React.FC = () => {
         <Form className="loginForm">
           <label htmlFor="email">Email</label>
           <Field id="email" name="email" type="email" aria-label="Email" />
-          <ErrorMessage name="email" component="div" />
+          <div style={{ color: 'red' }}>
+            <ErrorMessage name="email" component="div" />
+          </div>
 
           <label htmlFor="password">Password</label>
           <Field id="password" name="password" type="password" aria-label="Password" />

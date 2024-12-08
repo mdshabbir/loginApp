@@ -132,6 +132,9 @@ input[type="checkbox"] {
   height: 100%;
   transition: width 0.3s ease, background-color 0.3s ease;
 }
+ErrorMessage {
+  color: red;
+}
 
 
 /* Mobile Responsive */
@@ -143,4 +146,5 @@ input[type="checkbox"] {
   nav a {
     font-size: 1rem;
   }
+  
 }

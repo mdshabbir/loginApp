@@ -1,15 +1,5 @@
 # Project Name: React Authentication System with Form Validation
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Design Choices](#design-choices)
-- [Assumptions and Limitations](#assumptions-and-limitations)
-- [Future Improvements](#future-improvements)
-
 ## Introduction
 
 This project is a React application that includes Sign Up and Login forms with form validation using Formik and Yup. It features:
